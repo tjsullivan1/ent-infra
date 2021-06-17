@@ -6,6 +6,7 @@ on:
     paths:
     - 'rg/**'
     - '.github/workflows/generic.yml'
+    - 'check.ps1'
   pull_request:
     branches: [ main ]
 
